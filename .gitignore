@@ -11,5 +11,11 @@ __pycache__/
 data/interim/
 data/processed/
 
+# Sólo trackear Base-sismos-2024.zip en data/raw
+data/raw/*
+!data/raw/Base-sismos-2024.zip
+
+.DS_Store
+
 # Salidas
 outputs/
