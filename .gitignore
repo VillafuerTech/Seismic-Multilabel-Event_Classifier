@@ -1,0 +1,15 @@
+# Entorno
+env/
+
+# Python
+__pycache__/
+*.pyc
+\ n# Notebooks
+.ipynb_checkpoints/
+
+# Datos
+data/interim/
+data/processed/
+
+# Salidas
+outputs/

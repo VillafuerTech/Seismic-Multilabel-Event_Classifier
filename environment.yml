@@ -1,0 +1,16 @@
+name: ml_project
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - tensorflow
+  - jupyterlab
+  - papermill
+  - joblib
+  - matplotlib
+  - seaborn
+  - pytest
