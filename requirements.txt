@@ -9,3 +9,6 @@ joblib
 matplotlib
 seaborn
 pytest
+pyarrow
+fastparquet
+scikeras
