@@ -12,3 +12,6 @@ pytest
 pyarrow
 fastparquet
 scikeras
+torch
+Lightning
+torchmetrics
