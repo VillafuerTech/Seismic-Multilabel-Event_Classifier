@@ -29,6 +29,9 @@ data/raw/*
 .DS_Store
 outputs/
 
+lightning_logs/
+
+checkpoints/
 # ─── (opcional) Models ───────────────────────────
 # si no quieres versionar los .pkl:
 # models/*
